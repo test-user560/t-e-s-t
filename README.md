@@ -58,7 +58,8 @@ GitHub 화면 오른쪽 위에 있는 `+` 버튼을 누릅니다.
 `Commit message` 칸에는 변경 사항의 제목이 들어갑니다.  
 처음에는 GitHub가 자동으로 넣어 준 문장을 그대로 두어도 괜찮습니다.
 
-<img width="1150" height="616" alt="스크린샷 2026-06-12 09 32 18" src="https://github.com/user-attachments/assets/ec80f5ef-ea3c-4770-a071-9dc3a0003b81" />
+<img width="1150" height="585" alt="스크린샷 2026-06-12 09 32 00" src="https://github.com/user-attachments/assets/f0e99a4b-24e1-43eb-87b6-c3dba8204bb1" />
+
 
 ## 7. 수정한 내용 저장하기
 
@@ -67,5 +68,5 @@ GitHub 화면 오른쪽 위에 있는 `+` 버튼을 누릅니다.
 
 저장이 끝나면 파일 상세보기 화면으로 돌아가며, 바뀐 내용을 확인할 수 있습니다.
 
-<img width="1150" height="585" alt="스크린샷 2026-06-12 09 32 00" src="https://github.com/user-attachments/assets/f0e99a4b-24e1-43eb-87b6-c3dba8204bb1" />
 
+<img width="1150" height="616" alt="스크린샷 2026-06-12 09 32 18" src="https://github.com/user-attachments/assets/ec80f5ef-ea3c-4770-a071-9dc3a0003b81" />
